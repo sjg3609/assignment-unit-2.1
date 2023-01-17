@@ -90,5 +90,3 @@ switch (luckyNumber) {
         
 } 
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
-
-
