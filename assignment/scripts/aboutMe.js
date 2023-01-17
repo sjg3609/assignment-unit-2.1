@@ -74,18 +74,19 @@ if (mostPets) {
 //      You'll need to research how to use switch statements!
 
 
+
 switch (luckyNumber) {
     case 1:
-        text = "First is the worst!";
+        console.log("First is the worst!");
         break;
     case 2:
-        text = "Second is the best";
+        console.log("Second is the best!");
         break;
     case 3:
-        text =  "Third is the one with the polka dot dress";
+        console.log("Third is the one with the polka dot dress");
         break;
     default:
-        text = "Luck is what happens when preparation meets opportnity";
+        console.log("Luck is what happens when preparation meets opportnity");
         
 } 
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
